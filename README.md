@@ -1,4 +1,4 @@
-# PHP-login
+# CAPEAGRO SAC
 A login App with SESSIONS, Password hash, and Password recovery made with PHP 7, MySQL, phpMyAdmin, and Bootstrap.
 
 How to use it?
